@@ -29,6 +29,5 @@ I'm a software developer with a strong passion for creating visually appealing a
 
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=youniszaraan&hide_progress=true) -->
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?youniszaraan&layout=compact)
-<br>
+<p>
 
-</a>
