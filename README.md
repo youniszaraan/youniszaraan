@@ -16,7 +16,7 @@ I'm a software developer with a strong passion for creating visually appealing a
 <a href="https://www.facebook.com/younis/"><img
     src="https://img.shields.io/badge/-Facebook-3b5998?style=flat&logo=facebook&logoColor=white" alt="Facebook"></a>
 
-    alt="Facebook"></a>
+
 <a href="https://www.youtube.com/c/youniszaraan"><img
     src="https://img.shields.io/badge/-YouTube-c4302b?style=flat&logo=youtube&logoColor=white" alt="Facebook"></a>
 </p>
@@ -29,5 +29,7 @@ I'm a software developer with a strong passion for creating visually appealing a
 
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=youniszaraan&hide_progress=true) -->
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?youniszaraan&layout=compact)
-<p>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
+<br>
+</a>
 
