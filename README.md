@@ -30,6 +30,7 @@ I'm a software developer with a strong passion for creating visually appealing a
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=youniszaraan&hide_progress=true) -->
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=youniszaraan&layout=compact)
+<br>
 <a href="https://komarev.com/ghpvc/?username=youniszaraan&style=for-the-badge">
     <img src="https://komarev.com/ghpvc/?username=youniszaraan&style=for-the-badge">
 </a>
