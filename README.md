@@ -18,8 +18,7 @@ I'm a student BIT
     src="https://img.shields.io/badge/-Facebook-3b5998?style=flat&logo=facebook&logoColor=white" alt="Facebook"></a>
 
 
-<a href="https://www.youtube.com/c/youniszaraan"><img
-    src="https://img.shields.io/badge/-YouTube-c4302b?style=flat&logo=youtube&logoColor=white" alt="Facebook"></a>
+
 </p>
 
 ### 🛠 &nbsp;Technologies that I work with
