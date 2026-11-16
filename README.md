@@ -9,7 +9,7 @@ I'm a student BIT
 </p>
 
 - 👨‍💻 I’m currently a university student .
-- 📚 I’m currently learning programming language such as C#.
+- 📚 I’m currently learning programming language such  Flutter and Python.
 - 🎯 Future Goals: Learn and understand more programming languages-like python.
   
 - 📫 Social links
